@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <!-- Círculo Base Azul Corporativo Alko Oficial -->
+  <circle cx="50" cy="50" r="50" fill="#005b94" />
+
+  <!-- Linha Central Vertical -->
+  <rect x="47.5" y="0" width="5" height="100" fill="#ffffff" />
+
+  <!-- Cortes Diagonais Esquerda -->
+  <line x1="-2" y1="26" x2="48" y2="40" stroke="#ffffff" stroke-width="4.2" stroke-linecap="square" />
+  <line x1="-2" y1="48" x2="48" y2="62" stroke="#ffffff" stroke-width="4.2" stroke-linecap="square" />
+  <line x1="2" y1="70" x2="48" y2="84" stroke="#ffffff" stroke-width="4.2" stroke-linecap="square" />
+
+  <!-- Cortes Diagonais Direita -->
+  <line x1="102" y1="26" x2="52" y2="40" stroke="#ffffff" stroke-width="4.2" stroke-linecap="square" />
+  <line x1="102" y1="48" x2="52" y2="62" stroke="#ffffff" stroke-width="4.2" stroke-linecap="square" />
+  <line x1="98" y1="70" x2="52" y2="84" stroke="#ffffff" stroke-width="4.2" stroke-linecap="square" />
+</svg>

@@ -1,0 +1,20 @@
+version: '3.8'
+
+services:
+  portal-itsm:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: portal-chamados-itsm
+    restart: unless-stopped
+    ports:
+      - "3000:3000"
+    environment:
+      - NODE_ENV=production
+      - PORT=3000
+    healthcheck:
+      test: ["CMD", "wget", "-qO-", "http://localhost:3000/health"]
+      interval: 30s
+      timeout: 5s
+      retries: 3
+      start_period: 10s

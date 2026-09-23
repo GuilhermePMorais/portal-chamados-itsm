@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1520 440" fill="none">
+  <defs>
+    <mask id="alko-mask">
+      <circle cx="210" cy="220" r="195" fill="#ffffff" />
+      <line x1="210" y1="20" x2="210" y2="420" stroke="#000000" stroke-width="18" stroke-linecap="round" />
+      <line x1="15" y1="115" x2="200" y2="175" stroke="#000000" stroke-width="18" stroke-linecap="round" />
+      <line x1="405" y1="115" x2="220" y2="175" stroke="#000000" stroke-width="18" stroke-linecap="round" />
+      <line x1="15" y1="200" x2="200" y2="260" stroke="#000000" stroke-width="18" stroke-linecap="round" />
+      <line x1="405" y1="200" x2="220" y2="260" stroke="#000000" stroke-width="18" stroke-linecap="round" />
+      <line x1="30" y1="288" x2="200" y2="348" stroke="#000000" stroke-width="18" stroke-linecap="round" />
+      <line x1="390" y1="288" x2="220" y2="348" stroke="#000000" stroke-width="18" stroke-linecap="round" />
+      <line x1="85" y1="372" x2="200" y2="415" stroke="#000000" stroke-width="18" stroke-linecap="round" />
+      <line x1="335" y1="372" x2="220" y2="415" stroke="#000000" stroke-width="18" stroke-linecap="round" />
+    </mask>
+  </defs>
+
+  <circle cx="210" cy="220" r="195" fill="#005088" mask="url(#alko-mask)" />
+
+  <g transform="translate(480, 0)">
+    <g fill="#000000" transform="translate(0, 260)">
+      <path d="M 0,0 L 78,-236 L 152,-236 L 230,0 L 174,0 L 152,-66 L 76,-66 L 56,0 Z M 92,-114 L 138,-114 L 115,-184 Z" />
+      <path d="M 276,-236 L 332,-236 L 332,-54 L 442,-54 L 442,0 L 276,0 Z" />
+      <path d="M 490,-236 L 546,-236 L 546,-106 L 634,-236 L 706,-236 L 608,-94 L 712,0 L 640,0 L 546,-78 L 546,0 L 490,0 Z" />
+      <path d="M 830,-242 C 900,-242 956,-186 956,-118 C 956,-50 900,6 830,6 C 760,6 704,-50 704,-118 C 704,-186 760,-242 830,-242 Z M 830,-186 C 792,-186 764,-156 764,-118 C 764,-80 792,-50 830,-50 C 868,-50 896,-80 896,-118 C 896,-156 868,-186 830,-186 Z" />
+    </g>
+    <text x="0" y="350" font-family="system-ui, -apple-system, sans-serif" font-size="68" font-weight="800" letter-spacing="0.55em" fill="#000000">DO BRASIL</text>
+  </g>
+</svg>

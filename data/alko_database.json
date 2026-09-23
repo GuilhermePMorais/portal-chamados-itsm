@@ -1,0 +1,30 @@
+{
+  "alko_it_users_v1": [
+    {
+      "id": "usr-admin",
+      "name": "Administrador do Sistema",
+      "email": "admin@itsm.local",
+      "role": "Administrador",
+      "department": "Tecnologia da Informação",
+      "avatarUrl": "",
+      "active": true,
+      "createdAt": "2025-01-01T00:00:00Z",
+      "passwordHash": "Admin@2026"
+    }
+  ],
+  "alko_it_demands_v1": [],
+  "alko_it_notes_v1": [],
+  "alko_it_audit_v1": [
+    {
+      "id": "aud-init-system",
+      "action": "Criação",
+      "description": "Sistema Portal-Chamados-ITSM inicializado com sucesso em modo de produção.",
+      "userEmail": "admin@itsm.local",
+      "userName": "Administrador do Sistema",
+      "entityType": "Usuário",
+      "timestamp": "2025-01-01T00:00:00Z"
+    }
+  ],
+  "alko_it_notifications_v1": [],
+  "lastModified": "2026-09-22T14:30:00.000Z"
+}

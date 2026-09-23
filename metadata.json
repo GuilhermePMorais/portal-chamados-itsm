@@ -1,0 +1,6 @@
+{
+  "name": "Portal-Chamados-ITSM",
+  "description": "Sistema corporativo open source para gestão de chamados de TI, facilities, controle de SLA e trilha de auditoria.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

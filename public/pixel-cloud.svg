@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="128" height="128" shape-rendering="crispEdges">
+  <!-- Fundo Sutil de Contraste (Opcional) -->
+  <rect width="32" height="32" rx="6" fill="#121820" />
+  <rect x="0.5" y="0.5" width="31" height="31" rx="5.5" fill="none" stroke="#232d3b" stroke-width="1" />
+
+  <!-- Nuvem em Pixel Art Verde (Paleta: #a7f3d0, #34d399, #10b981, #059669, #064e3b) -->
+  <!-- Contorno Superior da Nuvem -->
+  <rect x="11" y="6" width="6" height="1" fill="#064e3b" />
+  <rect x="9" y="7" width="2" height="1" fill="#064e3b" />
+  <rect x="17" y="7" width="2" height="1" fill="#064e3b" />
+  <rect x="7" y="8" width="2" height="1" fill="#064e3b" />
+  <rect x="19" y="8" width="2" height="1" fill="#064e3b" />
+  <rect x="5" y="9" width="2" height="1" fill="#064e3b" />
+  <rect x="21" y="9" width="2" height="2" fill="#064e3b" />
+  <rect x="4" y="10" width="1" height="5" fill="#064e3b" />
+  <rect x="5" y="15" width="1" height="2" fill="#064e3b" />
+  <rect x="6" y="17" width="10" height="1" fill="#064e3b" />
+
+  <!-- Brilho / Highlight Superior da Nuvem (Mint #a7f3d0 / #34d399) -->
+  <rect x="11" y="7" width="6" height="1" fill="#a7f3d0" />
+  <rect x="9" y="8" width="2" height="1" fill="#a7f3d0" />
+  <rect x="11" y="8" width="6" height="1" fill="#34d399" />
+  <rect x="7" y="9" width="2" height="1" fill="#a7f3d0" />
+  <rect x="9" y="9" width="10" height="1" fill="#34d399" />
+  <rect x="5" y="10" width="2" height="2" fill="#a7f3d0" />
+  <rect x="7" y="10" width="14" height="2" fill="#10b981" />
+
+  <!-- Corpo da Nuvem (Verde Esmeralda #10b981 e #059669) -->
+  <rect x="5" y="12" width="16" height="3" fill="#10b981" />
+  <rect x="6" y="15" width="11" height="2" fill="#059669" />
+
+  <!-- Celular / Smartphone em Pixel Art Sobreposto (x: 18 a 27, y: 11 a 25) -->
+  <!-- Sombra do Celular na Nuvem -->
+  <rect x="17" y="12" width="1" height="5" fill="#047857" />
+
+  <!-- Contorno do Celular -->
+  <rect x="18" y="11" width="9" height="1" fill="#064e3b" />
+  <rect x="17" y="12" width="1" height="13" fill="#064e3b" />
+  <rect x="27" y="12" width="1" height="13" fill="#064e3b" />
+  <rect x="18" y="25" width="9" height="1" fill="#064e3b" />
+
+  <!-- Corpo do Celular (Borda Verde Escura) -->
+  <rect x="18" y="12" width="9" height="13" fill="#065f46" />
+
+  <!-- Tela do Celular (Glow Verde Claro #a7f3d0 / #6ee7b7) -->
+  <rect x="19" y="13" width="7" height="9" fill="#a7f3d0" />
+
+  <!-- Conteúdo da Tela: Notificação de Chamado / Checkmark Pixel Verde -->
+  <rect x="21" y="14" width="3" height="1" fill="#059669" />
+  <rect x="20" y="16" width="1" height="2" fill="#047857" />
+  <rect x="21" y="18" width="2" height="1" fill="#047857" />
+  <rect x="23" y="16" width="1" height="2" fill="#047857" />
+  <rect x="24" y="15" width="1" height="2" fill="#047857" />
+
+  <!-- LED / Botão Inferior do Celular -->
+  <rect x="22" y="23" width="1" height="1" fill="#34d399" />
+  <rect x="22" y="12" width="1" height="1" fill="#34d399" />
+
+  <!-- Conexão Pixel Art (Sinal de Rádio / Nuvem conectando ao celular) -->
+  <rect x="14" y="14" width="2" height="1" fill="#a7f3d0" />
+  <rect x="13" y="12" width="1" height="1" fill="#34d399" />
+</svg>
