@@ -1,5 +1,5 @@
 // src/config/branding.ts
-export { ALKO_CONFIG as COMPANY_CONFIG } from './branding.alko';
+// export { ALKO_CONFIG as COMPANY_CONFIG } from './branding.alko';
 
 /**
  * =====================================================================
